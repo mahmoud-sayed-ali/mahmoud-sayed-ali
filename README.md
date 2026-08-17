@@ -1,31 +1,12 @@
 
-# My Profile
-
-
-
-## 🚀 About Me
-- My name is Mahmoud Sayed.
-- I'm a Mechatronics Engineering graduate.
-- My role: Embedded Software Engineer.
-
-
-# More about me 👋
-I graduated from the Higher Technological Institute in Egypt.\
-I'm currently working on C/C++ language projects and embedded system projects using AVR & ARM Cortex M3.\
-I'm looking forward to meet the market needs.\
-\
-\
-If you have any idea, or advise, just tell me about it privately.
+# Welcome
 
 
 ## 🛠 Skills
-- Embedded C Concepts
-- C/C++ and Python Programming Languages 
-- AVR Driver Software development
-- STM32 (ARM Cortex-M) Driver Software development
-- Programming using RTOS
+- Embedded Systems Software Development
 - Software Testing
-- Linux System Administration 
+- Software Engineering
+- Cloud Computing
 
 
 ## 🔗 Links
